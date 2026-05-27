@@ -1,3 +1,5 @@
+// 안녕하세요.
+
 class Cal {
 public:
 	int getSum(int a, int b) {
